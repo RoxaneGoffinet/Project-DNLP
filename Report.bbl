@@ -1,0 +1,573 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{CRF}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=17d73a3a5be48993791cbe4db8855331}{%
+           family={McCallum},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=be6f1b6df7f1ddfafad18806238fa391}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4870328f5111e5e627e20eea4289070}
+      \strng{fullhash}{f4870328f5111e5e627e20eea4289070}
+      \strng{bibnamehash}{f4870328f5111e5e627e20eea4289070}
+      \strng{authorbibnamehash}{f4870328f5111e5e627e20eea4289070}
+      \strng{authornamehash}{f4870328f5111e5e627e20eea4289070}
+      \strng{authorfullhash}{f4870328f5111e5e627e20eea4289070}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Seventh Conference on Natural Language Learning at {HLT}-{NAACL} 2003}
+      \field{title}{Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons}
+      \field{year}{2003}
+      \field{pages}{188\bibrangedash 191}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://aclanthology.org/W03-0430
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/W03-0430
+      \endverb
+    \endentry
+    \entry{HMM}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5cff80275cb1e2e121332fb7bbd53d4e}{%
+           family={Morwal},
+           familyi={M\bibinitperiod},
+           given={Sudha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ecb589aeebff2e7d014357c4092898d2}{%
+           family={Jahan},
+           familyi={J\bibinitperiod},
+           given={Nusrat},
+           giveni={N\bibinitperiod}}}%
+        {{hash=325f8806c575a386e396d3d1914accda}{%
+           family={Chopra},
+           familyi={C\bibinitperiod},
+           given={Deepti},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{258e684f7c2b8dea201bc2e6cc0bf027}
+      \strng{fullhash}{258e684f7c2b8dea201bc2e6cc0bf027}
+      \strng{bibnamehash}{258e684f7c2b8dea201bc2e6cc0bf027}
+      \strng{authorbibnamehash}{258e684f7c2b8dea201bc2e6cc0bf027}
+      \strng{authornamehash}{258e684f7c2b8dea201bc2e6cc0bf027}
+      \strng{authorfullhash}{258e684f7c2b8dea201bc2e6cc0bf027}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal on Natural Language Computing}
+      \field{title}{Named Entity Recognition using Hidden Markov Model (HMM)}
+      \field{volume}{1}
+      \field{year}{2012}
+      \field{pages}{15\bibrangedash 23}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.5121/ijnlc.2012.1402
+      \endverb
+    \endentry
+    \entry{BERT}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=13202969e372bc82318f9629cbdd199b}{%
+           family={Devlin},
+           familyi={D\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a45784fe7163b45f11d166564f5d24b6}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Ming-Wei},
+           giveni={M\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=8dde73b4194f5bc4230c4808f3fc1534}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kenton},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b92aa283415413bb8d2a1548716d0c7d}{%
+           family={Toutanova},
+           familyi={T\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=f974925c5c6cca1d67fd604cc9fc9c79}{%
+           family={Burstein},
+           familyi={B\bibinitperiod},
+           given={Jill},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3aec97177cb69c892f2c8a2d9bc31a10}{%
+           family={Doran},
+           familyi={D\bibinitperiod},
+           given={Christy},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b47889ad94571547c92970150485798b}{%
+           family={Solorio},
+           familyi={S\bibinitperiod},
+           given={Thamar},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, Minnesota}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{ad8e2e2a80d28ade21e86852b804fc9b}
+      \strng{fullhash}{e8bccd48302a14eeba57d9dce2f49ef4}
+      \strng{bibnamehash}{ad8e2e2a80d28ade21e86852b804fc9b}
+      \strng{authorbibnamehash}{ad8e2e2a80d28ade21e86852b804fc9b}
+      \strng{authornamehash}{ad8e2e2a80d28ade21e86852b804fc9b}
+      \strng{authorfullhash}{e8bccd48302a14eeba57d9dce2f49ef4}
+      \strng{editorbibnamehash}{3ba8abc3fd60f22784bd617fd230d1c6}
+      \strng{editornamehash}{3ba8abc3fd60f22784bd617fd230d1c6}
+      \strng{editorfullhash}{3ba8abc3fd60f22784bd617fd230d1c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models (Peters et al., 2018a; Radford et al., 2018), BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications. BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks, including pushing the GLUE score to 80.5 (7.7 point absolute improvement), MultiNLI accuracy to 86.7{\%} (4.6{\%} absolute improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute improvement) and SQuAD v2.0 Test F1 to 83.1 (5.1 point absolute improvement).}
+      \field{booktitle}{Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)}
+      \field{month}{6}
+      \field{title}{{BERT}: Pre-training of Deep Bidirectional Transformers for Language Understanding}
+      \field{year}{2019}
+      \field{pages}{4171\bibrangedash 4186}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.18653/v1/N19-1423
+      \endverb
+      \verb{urlraw}
+      \verb https://aclanthology.org/N19-1423
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/N19-1423
+      \endverb
+    \endentry
+    \entry{ROBERTA}{misc}{}
+      \name{author}{10}{}{%
+        {{hash=94530daf7a9db4abe89cfb22935373eb}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yinhan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b13aa2bad5258fa5ef7a733f2d305a49}{%
+           family={Ott},
+           familyi={O\bibinitperiod},
+           given={Myle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=78a420900f50a8470ad085fb05231bf6}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Naman},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e483b52ce2cd3ba2fd08e7bf4fef4ff0}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Jingfei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e5bfa941bcdbfecb5f3e42bb6ac9eb5f}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Mandar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aed188db3fc6855ac5666aa14e04a3bb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Danqi},
+           giveni={D\bibinitperiod}}}%
+        {{hash=038965e189161e03f6255a4278c280a1}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Omer},
+           giveni={O\bibinitperiod}}}%
+        {{hash=c97f53fdeeb04c28de19e3324cb4bc0a}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1dbd3a5b42828fb2cebd7786488ba425}{%
+           family={Zettlemoyer},
+           familyi={Z\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9b97236dd2d1a104fc5cf9660dd5582e}{%
+           family={Stoyanov},
+           familyi={S\bibinitperiod},
+           given={Veselin},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{bbac34a28b7aba5cd543f7c72e0d987d}
+      \strng{fullhash}{7579c765ce38b2c34c8f9768ec3bc342}
+      \strng{bibnamehash}{bbac34a28b7aba5cd543f7c72e0d987d}
+      \strng{authorbibnamehash}{bbac34a28b7aba5cd543f7c72e0d987d}
+      \strng{authornamehash}{bbac34a28b7aba5cd543f7c72e0d987d}
+      \strng{authorfullhash}{7579c765ce38b2c34c8f9768ec3bc342}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{RoBERTa: A Robustly Optimized BERT Pretraining Approach}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1907.11692
+      \endverb
+    \endentry
+    \entry{Data-augmentation}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=7b9486b522b93d2dce89d4577eddcd3c}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8c9a8dad2ae2739191d1554f7597bcdb}{%
+           family={Adel},
+           familyi={A\bibinitperiod},
+           given={Heike},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ae6c35f5bca426a6a4e2e48c0834f00}
+      \strng{fullhash}{4ae6c35f5bca426a6a4e2e48c0834f00}
+      \strng{bibnamehash}{4ae6c35f5bca426a6a4e2e48c0834f00}
+      \strng{authorbibnamehash}{4ae6c35f5bca426a6a4e2e48c0834f00}
+      \strng{authornamehash}{4ae6c35f5bca426a6a4e2e48c0834f00}
+      \strng{authorfullhash}{4ae6c35f5bca426a6a4e2e48c0834f00}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Computational Linguistics}
+      \field{title}{An Analysis of Simple Data Augmentation for Named Entity Recognition}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:225041226
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:225041226
+      \endverb
+    \endentry
+    \entry{luke}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=3f222d12787524006e5119ade149d866}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={Ikuya},
+           giveni={I\bibinitperiod}}}%
+        {{hash=a0602035e63a56d86a67823386c1a49d}{%
+           family={Asai},
+           familyi={A\bibinitperiod},
+           given={Akari},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0694c75adc7fd9f41b723881c8c2afcd}{%
+           family={Shindo},
+           familyi={S\bibinitperiod},
+           given={Hiroyuki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8322d74b529545bcb97f7d30002b8b21}{%
+           family={Takeda},
+           familyi={T\bibinitperiod},
+           given={Hideaki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ac07b18b141da43242ab01f6e36107de}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={Yuji},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{5afc16487097f6148067a4a2f8e7e930}
+      \strng{fullhash}{72efd7d62d8519f5f7a1285690b1e01e}
+      \strng{bibnamehash}{5afc16487097f6148067a4a2f8e7e930}
+      \strng{authorbibnamehash}{5afc16487097f6148067a4a2f8e7e930}
+      \strng{authornamehash}{5afc16487097f6148067a4a2f8e7e930}
+      \strng{authorfullhash}{72efd7d62d8519f5f7a1285690b1e01e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 2010.01057
+      \endverb
+    \endentry
+    \entry{E-NER}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=6f19f58280bd202a072c907df982cfb4}{%
+           family={Au},
+           familyi={A\bibinitperiod},
+           given={Ting\bibnamedelimb Wai\bibnamedelima Terence},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=243e28fadf67d09a926a26d14764d874}{%
+           family={Lampos},
+           familyi={L\bibinitperiod},
+           given={Vasileios},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d2eb6afd8a260671f717305b2c9e688a}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Ingemar},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=ef0e94c920293ddc3c52b6569a53efab}{%
+           family={Aletras},
+           familyi={A\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6f20d4682ac66b848572c4e814f2f998}{%
+           family={Chalkidis},
+           familyi={C\bibinitperiod},
+           given={Ilias},
+           giveni={I\bibinitperiod}}}%
+        {{hash=597ea04f163fd6d4e966ce0fcb7cb5b1}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7a4e93af30383462ae82794d7e58a525}{%
+           family={Goanță},
+           familyi={G\bibinitperiod},
+           given={Cătălina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4db88962eca0a7a3d8dcd7719a74aacf}{%
+           family={Preoțiuc-Pietro},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abu Dhabi, United Arab Emirates (Hybrid)}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{31aeb6f7443f698a332865bd3d33ab29}
+      \strng{fullhash}{31aeb6f7443f698a332865bd3d33ab29}
+      \strng{bibnamehash}{31aeb6f7443f698a332865bd3d33ab29}
+      \strng{authorbibnamehash}{31aeb6f7443f698a332865bd3d33ab29}
+      \strng{authornamehash}{31aeb6f7443f698a332865bd3d33ab29}
+      \strng{authorfullhash}{31aeb6f7443f698a332865bd3d33ab29}
+      \strng{editorbibnamehash}{3829a1cd79df0918ca7c67c04e0d10df}
+      \strng{editornamehash}{3829a1cd79df0918ca7c67c04e0d10df}
+      \strng{editorfullhash}{a780cdc34b47a4db5bcf0d1e64879979}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Natural Legal Language Processing Workshop 2022}
+      \field{month}{12}
+      \field{title}{{E}-{NER} {---} An Annotated Named Entity Recognition Corpus of Legal Text}
+      \field{year}{2022}
+      \field{pages}{246\bibrangedash 255}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18653/v1/2022.nllp-1.22
+      \endverb
+      \verb{urlraw}
+      \verb https://aclanthology.org/2022.nllp-1.22
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/2022.nllp-1.22
+      \endverb
+    \endentry
+    \entry{article1}{misc}{}
+      \name{author}{6}{}{%
+        {{hash=2e60ec02435a80182c1b2089c7ddaea7}{%
+           family={Kalamkar},
+           familyi={K\bibinitperiod},
+           given={Prathamesh},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c2c246bdaf1d8499814f1da82bf47b1e}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Astha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=64eb97a9645023a310fc048e1e4e2b93}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={Aman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4357a3104b0bcfbe06be9da470e91672}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Smita},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cd71761091664c330cf34242ad3889ca}{%
+           family={Karn},
+           familyi={K\bibinitperiod},
+           given={Saurabh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a4dcebb4c7b147f020c2ecef8de620c0}{%
+           family={Raghavan},
+           familyi={R\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{9839875761aa93629c7eed5999cad672}
+      \strng{fullhash}{8b447b33c70e8060e63206a781556510}
+      \strng{bibnamehash}{9839875761aa93629c7eed5999cad672}
+      \strng{authorbibnamehash}{9839875761aa93629c7eed5999cad672}
+      \strng{authornamehash}{9839875761aa93629c7eed5999cad672}
+      \strng{authorfullhash}{8b447b33c70e8060e63206a781556510}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Named Entity Recognition in Indian court judgments}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb 2211.03442
+      \endverb
+    \endentry
+    \entry{article2}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=52f8bc201d5c978ff76d797969d8d3b3}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+        {{hash=fbd0024dfbed1c1d8727e7d6eeb6cad0}{%
+           family={Koudounas},
+           familyi={K\bibinitperiod},
+           given={Alkis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3d9f18dd7a940ef47611bf13b596b0a1}{%
+           family={Vaiani},
+           familyi={V\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=df27d4ef96f237913a57667e54dcf604}{%
+           family={Pastor},
+           familyi={P\bibinitperiod},
+           given={Eliana},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7191ec9628e98a40cdaef3aa340711df}{%
+           family={Baralis},
+           familyi={B\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+        {{hash=423e68bbabcfa713ea605a05d41da624}{%
+           family={Cagliero},
+           familyi={C\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=adbb502eafbdc6b1122d4a3ff91a98ed}{%
+           family={Tarasconi},
+           familyi={T\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=7e27b74fa38c2c557c23baf21c84ff60}{%
+           family={Ojha},
+           familyi={O\bibinitperiod},
+           given={Atul\bibnamedelima Kr.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3f55f7c6b26ba747dd6769a0f29aa253}{%
+           family={Doğruöz},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi Seza},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=124f295b5dbcda48a5f5406d67ee951e}{%
+           family={Da\bibnamedelima San\bibnamedelima Martino},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0da320327d7f38d8bab94bf9ea391074}{%
+           family={Tayyar\bibnamedelima Madabushi},
+           familyi={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Harish},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1d4bc1535f95f0c210b1db291af540b7}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Ritesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fecc17103aaf2fe8e5bfc13172ff662a}{%
+           family={Sartori},
+           familyi={S\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Toronto, Canada}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{5f66c69903f2afa412751cf08535a81b}
+      \strng{fullhash}{b26a913a366a1d0f1b19d0b9e6c56cbf}
+      \strng{bibnamehash}{5f66c69903f2afa412751cf08535a81b}
+      \strng{authorbibnamehash}{5f66c69903f2afa412751cf08535a81b}
+      \strng{authornamehash}{5f66c69903f2afa412751cf08535a81b}
+      \strng{authorfullhash}{b26a913a366a1d0f1b19d0b9e6c56cbf}
+      \strng{editorbibnamehash}{cd80b73487236dafc0176219f6eff820}
+      \strng{editornamehash}{cd80b73487236dafc0176219f6eff820}
+      \strng{editorfullhash}{a1a41ecf1989fbc38740de1fdaef9362}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023)}
+      \field{month}{7}
+      \field{title}{{P}oli{T}o{HFI} at {S}em{E}val-2023 Task 6: Leveraging Entity-Aware and Hierarchical Transformers For Legal Entity Recognition and Court Judgment Prediction}
+      \field{year}{2023}
+      \field{pages}{1401\bibrangedash 1411}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.18653/v1/2023.semeval-1.194
+      \endverb
+      \verb{urlraw}
+      \verb https://aclanthology.org/2023.semeval-1.194
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/2023.semeval-1.194
+      \endverb
+    \endentry
+    \entry{eurlex}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-02-15}
+      \field{title}{EUR-Lex dataset}
+      \verb{urlraw}
+      \verb \url{https://huggingface.co/datasets/eurlex}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://huggingface.co/datasets/eurlex%7D
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
